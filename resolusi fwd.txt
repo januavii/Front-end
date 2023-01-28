@@ -1,0 +1,4 @@
+target belajar untuk menjadi fwd 2023
+- html
+- css
+- js
