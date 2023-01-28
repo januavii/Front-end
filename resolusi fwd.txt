@@ -2,7 +2,7 @@ target belajar untuk menjadi fwd 2023
 - html
 - css
   ^ dasar selesai dan sudah di upload
-  ^ layouting
+  ^ layouting selesai dan sudah di upload
   ^ css3
   ^ css flexbox
   ^ css grid
