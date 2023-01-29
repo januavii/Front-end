@@ -8,6 +8,6 @@ target belajar untuk menjadi fwd 2023
   ^ css grid
   ^ css unit
 - js
-- framework
-  ^ angular
+- framework js
+  ^ node
   ^ react
