@@ -1,5 +1,5 @@
 target belajar untuk menjadi fwd 2023
-- html
+- html dasar
 - css
   ^ dasar selesai dan sudah di upload
   ^ layouting selesai dan sudah di upload
